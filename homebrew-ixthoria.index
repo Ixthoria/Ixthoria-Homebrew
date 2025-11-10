@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Homebrew: Ixthoria</name>
+		<description>Homebrew for the world of Ixthoria.</description>
+		<author ></author>
+		<update version="0.0.1">
+			<file name="homebrew-ixthoria.index" url="https://raw.githubusercontent.com/ixthoria/ixthoria-homebrew/master/homebrew-ixthoria.index" />
+		</update>
+	</info>
+	<files>
+		
+	</files>
+</index>
