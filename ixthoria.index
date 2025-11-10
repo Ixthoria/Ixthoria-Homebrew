@@ -9,9 +9,7 @@
 		</update>
 	</info>
 	<files>
-		
+	<file name="source.xml" url="https://raw.githubusercontent.com/Ixthoria/Ixthoria-Homebrew/refs/heads/master/ixthoria/source.xml" />
 	</files>
 
 </index>
-
-
