@@ -5,7 +5,7 @@
 		<description>Homebrew for the world of Ixthoria.</description>
 		<author ></author>
 		<update version="0.0.1">
-			<file name="homebrew-ixthoria.index" url="https://raw.githubusercontent.com/ixthoria/ixthoria-homebrew/main/homebrew-ixthoria.index" />
+			<file name="homebrew-ixthoria.index" url="https://raw.githubusercontent.com/ixthoria/ixthoria-homebrew/master/ixthoria.index" />
 		</update>
 	</info>
 	<files>
@@ -13,3 +13,4 @@
 	</files>
 
 </index>
+
