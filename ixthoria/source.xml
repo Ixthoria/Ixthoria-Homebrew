@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <element name="Amulet of Second Chance" type="Item" source="Ixthoria" id="ID_HB_IX_IXTHORIA_MAGIC_ITEM_AMULET_OF_SECOND_CHANCE">
+        <description>
+			<p>This golden amulet holds a large blood ruby at the center glowing with a faint light.</p>
+			<p class="indent">While attuned to this amulet should the wearer die after one minute the amulet will cast the reincarnate spell on the wearer. If the amulet is removed before the minute has passed the spell will not be cast.</p>
+		</description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Legendary</set>
+			<set name="slot">neck</set>
+            <set name="attunement">true</set>
+        </setters>
+    </element>
+</elements>
